@@ -13,7 +13,7 @@ Browser: Google Chrome v109.0.5414.76
 4. Click "Подобрать".
 
 **Actual Result:**  
-There is not any information that giftsets are not available in search result according to price range filter (>2000 rub) ([^nomessage.mp4]). There are clients' reviews that can be wrongly pressed.
+There is not any information that giftsets are not available in search result according to price range filter (>2000 rub) ((See the attachment)[https://drive.google.com/file/d/1U9i_7n_Ncz0V55W-uELjarwFc84gdbU7/view?usp=sharing]). There are clients' reviews that can be wrongly pressed.
 
 **Expected Result:**  
 The message "Извините, на данный момент подарочные наборы выбранного ценового диапазона отсутствуют" is shown in case there is not any gift set suggestion according to the price range.
