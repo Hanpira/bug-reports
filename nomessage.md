@@ -1,4 +1,5 @@
-**SUMMARY:** [GiftSets] There is not any information that giftsets are not available in search result 
+**SUMMARY:** [GiftSets] There is not any information that giftsets are not available in search result  
+
 **Severity:** Minor*
 
 **Environment:**  
